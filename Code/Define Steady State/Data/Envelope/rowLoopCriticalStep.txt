@@ -1,0 +1,9 @@
+At 302th step, the change is less than 0.0001
+At 303th step, the change is less than 0.0001
+At 304th step, the change is less than 0.0001
+
+=====================================================
+At 198th step, the change is less than 0.0001
+At 199th step, the change is less than 0.0001
+
+=====================================================
